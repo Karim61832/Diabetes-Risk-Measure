@@ -6,7 +6,7 @@
 ## 📌 Project Overview
 This project aims to build an interpretable machine learning model to estimate individual diabetes risk using the **CDC Behavioral Risk Factor Surveillance System (BRFSS)** dataset. Designed primarily as an educational screening tool, the application focuses on maximizing **Recall** to minimize false negatives in medical screening.
 
-- **Deployed App**: *(ضع رابط تطبيق Streamlit Cloud هنا بعد النشر)*
+- **Deployed App**: *(https://karim61832-diabetes-risk-measure-app-iao1dw.streamlit.app/)*
 - **Model Standard**: Scikit-Learn Pipelines with `RobustScaler` and `LogisticRegression`.
 
 ---
