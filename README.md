@@ -39,5 +39,5 @@ Based on model coefficient analysis, the top health indicators driving diabetes 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/diabetes-risk-screening.git](https://github.com/your-username/diabetes-risk-screening.git)
-   cd diabetes-risk-screening
+   git clone [https://github.com/Karim61832/Diabetes-Risk-Measure.git](https://github.com/Karim61832/Diabetes-Risk-Measure.git)
+   cd Diabetes-Risk-Measure
